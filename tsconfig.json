@@ -9,6 +9,20 @@
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
+    "paths": {
+      "lib-beehive-RG-shared": [
+        "dist/lib-beehive-rg-shared/lib-beehive-rg-shared",
+        "dist/lib-beehive-rg-shared"
+      ],
+      "lib-beehive-RGB": [
+        "dist/lib-beehive-rgb/lib-beehive-rgb",
+        "dist/lib-beehive-rgb"
+      ],
+      "lib-beehive-UI-shared": [
+        "dist/lib-beehive-ui-shared/lib-beehive-ui-shared",
+        "dist/lib-beehive-ui-shared"
+      ]
+    },
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "declaration": false,

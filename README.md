@@ -1,3 +1,13 @@
+# Disclaimer
+
+This is a bad example of Angular Monorepo.
+
+Better example of Angular Monorepo. https://github.com/jasonrichdarmawan/angular-my-workspace-example
+
+# Documentation
+
+https://kgotgit.medium.com/monorepo-pattern-setting-up-angular-workspace-for-multiple-applications-in-one-single-repository-4e14bc0d0cc0
+
 # AngularBeehiveMonorepo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
