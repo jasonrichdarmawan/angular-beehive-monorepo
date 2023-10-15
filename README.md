@@ -1,6 +1,8 @@
 # Disclaimer
 
-This is a bad example of Angular Monorepo.
+This is a bad example of Angular Monorepo because:
+1. the `beehive-rg` project need the `assets` from the `beehive-red` project. To be exact, you need to copy the `assets` of the `beehive-red` to `beehive-rg` in order for it to work properly.
+2. the `beehive-rg` project compile `beehive-red` project, it defetts the purpose of a monorepo.
 
 Better example of Angular Monorepo. https://github.com/jasonrichdarmawan/angular-my-workspace-example
 
